@@ -2,7 +2,7 @@
 
 This is part of Udacity Deep Learning Program, and this repository is meant to document my progress towards tv script generation project completion.
 
-In this project, I trained a LSTM recurrent neural network to generate scripts in the style of dialogue from TV series Seinfeld.
+In this project, I trained a LSTM recurrent neural network to generate tv scripts in the style of dialogue from TV series Seinfeld.
 
 ## Steps
 - Data Pre-processing
